@@ -22,5 +22,5 @@ Although the provided Server Side Script should work on earlier Portfolio versio
 
 #### 5. SCRIPT MAINTENANCE
 * Server Side Scripts should be viewed , edited , and maintained using a standard programmer's text editor :
-  * Windows ☞ Notepad++ ( _https://notepad-plus-plus.org_ ).
+  * Windows :point_right: Notepad++ ( _https://notepad-plus-plus.org_ ).
   * Macintosh ☞ Atom ( _https://atom.io/_ ).
