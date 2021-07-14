@@ -40,7 +40,6 @@ function onJobEachAsset() {
 
 
 
-
 function onJobFinalize() {
 
 	portfolio.log('[ ' + DISPLAY_NAME + ' version ' + VERSION + ' ] - \\\\\\\\\\\\\\\\\\\\    END JOB    \\\\\\\\\\\\\\\\\\\\');
