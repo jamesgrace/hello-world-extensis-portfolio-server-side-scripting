@@ -18,7 +18,7 @@ Although the provided Server Side Script should work on earlier Portfolio versio
 
 #### 4. INSTALLATION VERIFICATION
 * Your Portfolio instance's `server.log` will contain an **`[extensis.portfolio.server.scripting.ScriptManager] custom script '[script_name].js' was added`** entry indicating proper script installation.
-  * :+1: Verify that the script entry is now listed as a selection within the Portfolio Web and/or Desktop Client interface's **Run Script** tool.
+  * Verify that the script entry is now listed as a selection within the Portfolio Web and/or Desktop Client interface's **Run Script** tool.
 
 #### 5. SCRIPT MAINTENANCE
 * Server Side Scripts should be viewed , edited , and maintained using a standard programmer's text editor :
