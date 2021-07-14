@@ -1,11 +1,11 @@
 # hello-world-extensis-portfolio-server-side-scripting
 User initiated Extensis Portfolio Server Side Script that outputs a simple configurable "Hello, World!" message to Portfolio's server.log file.
 
-## Installation
+## Script Installation Procedure :
 
 #### 1. PORTFOLIO SERVER VERSION
 * Via the Portfolio Administration ( _:8091_ ) Web interface , verify the current version of your Portfolio instance.
-Although the provided Server Side Script should work on earlier Portfolio versions ( _that include the Nashorn JavaScript Engine_ ) , Portfolio version 3.6.3 ( _or greater_ ) is recommended.
+Although the provided Server Side Script should work on earlier Portfolio versions , Portfolio version 3.6.3 ( _or greater_ ) is recommended.
 
 #### 2. SCRIPTS SUB-FOLDER
 * Windows Server : Via the Windows File Explorer , navigate to the **`C:\Program Files(x86)\Extensis\Portfolio Server\data`** folder and create the **`custom-scripts`** sub-folder ( _if not already present_ ).
@@ -18,9 +18,9 @@ Although the provided Server Side Script should work on earlier Portfolio versio
 
 #### 4. INSTALLATION VERIFICATION
 * Your Portfolio instance's `server.log` will contain an **`[extensis.portfolio.server.scripting.ScriptManager] custom script '[script_name].js' was added`** entry indicating proper script installation.
-  * Verify that the **Hello World** script is now listed as a selection within the Portfolio Web and/or Desktop Client interface's **Run Script** tool.
+  * Verify that the script entry is now listed as a selection within the Portfolio Web and/or Desktop Client interface's **Run Script** tool.
 
 #### 5. SCRIPT MAINTENANCE
 * Server Side Scripts should be viewed , edited , and maintained using a standard programmer's text editor :
-  * Windows ☞ Notepad++ ( https://notepad-plus-plus.org ).
-  * Macintosh ☞ Atom ( https://atom.io/ ).
+  * Windows ☞ Notepad++ ( _https://notepad-plus-plus.org_ ).
+  * Macintosh ☞ Atom ( _https://atom.io/_ ).
