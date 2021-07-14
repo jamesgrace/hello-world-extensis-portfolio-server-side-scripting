@@ -1,5 +1,5 @@
 # hello-world-extensis-portfolio-server-side-scripting
-User initiated Extensis Portfolio Server Side Script that outputs a simple configurable "Hello, World!" message to Portfolio's server.log file.
+User initiated Extensis Portfolio Server Side Script that outputs a simple configurable "Hello, World!" message to Portfolio's `server.log` file.
 
 ## Script Installation Procedure :
 
